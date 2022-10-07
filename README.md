@@ -5,3 +5,5 @@
 
 npm install
 npm run start:dev
+
+## server is running localhost on 3333
